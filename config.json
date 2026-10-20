@@ -1,0 +1,9 @@
+{
+  "lock_combo": ["ctrl", "alt", "l"],
+  "unlock_sequence": ["u", "n", "l", "o", "c", "k"],
+  "capture_folder": "%USERPROFILE%\\Desktop\\PC-Lock-Captures",
+  "fail_threshold": 1,
+  "overlay_flash": true,
+  "capture_cooldown_seconds": 3,
+  "max_lock_seconds": 120
+}
